@@ -1,0 +1,35 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "org.thenrion"
+        },
+        "jhipsterVersion": "5.8.2",
+        "applicationType": "monolith",
+        "baseName": "mymongodbapp",
+        "packageName": "org.thenrion",
+        "packageFolder": "org/thenrion",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": false,
+        "websocket": false,
+        "databaseType": "mongodb",
+        "devDatabaseType": "mongodb",
+        "prodDatabaseType": "mongodb",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "MGEyMGJiZjZkYjZmOWVkMGZjNDhhMWEwMmIwMzYxYzVmNzhkNjM0ZDJkZDJhMWZiMzFiZDdkMmRlMDQ1MzZmNzljMmFiYTBlOWJjOThmMmVmODgxZTMyZDQwMTg0MWUyZWJhMjhiZjAyZTg4YjQ2NTgxYmRhOThhOTgyMzQzN2Q=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": false
+    }
+}
